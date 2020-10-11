@@ -5,12 +5,13 @@ import {
   Route,
  
   } from "react-router-dom";
+import Home from './Components/Home/Home/Home';
 function App() {
   return (
     <Router>
       <Switch>
         <Route exact path = "/">
-    
+         <Home></Home>
         </Route>
       </Switch>
 
