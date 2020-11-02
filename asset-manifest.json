@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a3f7c55.chunk.css",
+    "main.js": "/static/js/main.30ad2ed1.chunk.js",
+    "main.js.map": "/static/js/main.30ad2ed1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.85f32fef.js",
+    "runtime-main.js.map": "/static/js/runtime-main.85f32fef.js.map",
+    "static/css/2.8dbe6964.chunk.css": "/static/css/2.8dbe6964.chunk.css",
+    "static/js/2.80ce9815.chunk.js": "/static/js/2.80ce9815.chunk.js",
+    "static/js/2.80ce9815.chunk.js.map": "/static/js/2.80ce9815.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f418104f443fef25db88ffe630870d6b.js": "/precache-manifest.f418104f443fef25db88ffe630870d6b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.8dbe6964.chunk.css.map": "/static/css/2.8dbe6964.chunk.css.map",
+    "static/css/main.9a3f7c55.chunk.css.map": "/static/css/main.9a3f7c55.chunk.css.map",
+    "static/js/2.80ce9815.chunk.js.LICENSE.txt": "/static/js/2.80ce9815.chunk.js.LICENSE.txt",
+    "static/media/DentalCareImg.png": "/static/media/DentalCareImg.bc071481.png",
+    "static/media/aliza.png": "/static/media/aliza.bbf64a8f.png",
+    "static/media/Contact.css": "/static/media/appointmentBg.c2cbe1c8.png",
+    "static/media/chair.png": "/static/media/chair.f112c368.png",
+    "static/media/Header.css": "/static/media/chairBg.f843a8b8.png",
+    "static/media/doctor-sm.png": "/static/media/doctor-sm.eb24d439.png",
+    "static/media/doctor.png": "/static/media/doctor.b7d9c9e6.png",
+    "static/media/ema.png": "/static/media/ema.e1f2c3c6.png",
+    "static/media/Footer.css": "/static/media/footer-bg.7e5aec06.png",
+    "static/media/wilson.png": "/static/media/wilson.6de7b101.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85f32fef.js",
+    "static/css/2.8dbe6964.chunk.css",
+    "static/js/2.80ce9815.chunk.js",
+    "static/css/main.9a3f7c55.chunk.css",
+    "static/js/main.30ad2ed1.chunk.js"
+  ]
+}
