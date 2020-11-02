@@ -16,7 +16,7 @@ const BlogPost = (props) => {
                 <p className="card-text text-secondary mt-4">{description}</p>
             </div>
             
-       </div>
+        </div>
     );
 };
 

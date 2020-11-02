@@ -1,11 +1,11 @@
 import React from 'react';
-import './Appointment.css'
+import './MakeAppointment.css'
 import doctor from '../../../images/doctor.png'
 const Appointment = () => {
     return (
         <section className="make-appointment">
             <div className="container">
-                <div className="row">
+                <div className="row"> 
                     <div className="col-md-5 d-none d-md-block">
                         <img src={doctor} alt=""/>
                     </div>

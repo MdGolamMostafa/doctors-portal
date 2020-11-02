@@ -30,7 +30,7 @@ const Doctors = () => {
                 { 
                     doctorInfo.map( dInfo => <Doctor key= { dInfo.phone} dInfo = {dInfo}></Doctor>)
                 }
-               </div>
+            </div>
         </div>
     );
 };

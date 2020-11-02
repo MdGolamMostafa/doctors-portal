@@ -15,10 +15,10 @@ const DentalCare = () => {
                         <p className="text-secondary my-5">
                             Lorem ipsum dolor sit amet <br/>consectetur adipisicing  <br/>
                             elit. Nesciunt culpa cum  <br/>alias obcaecati officiis
-                             maxime earum repellendus. <br/> Dignissimos, eum. Quia, <br/>
-                              incidunt labore ex omnis
-                             beatae numquam ut autem aliquam tempore ad, vero iste?
-                             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus dolore non corrupti consectetur voluptas nobis quam deserunt maiores nostrum laudantium voluptatibus rem in porro eum, veniam unde illum totam facere.
+                            maxime earum repellendus. <br/> Dignissimos, eum. Quia, <br/>
+                            incidunt labore ex omnis
+                            beatae numquam ut autem aliquam tempore ad, vero iste?
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus dolore non corrupti consectetur voluptas nobis quam deserunt maiores nostrum laudantium voluptatibus rem in porro eum, veniam unde illum totam facere.
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt esse ab, ad rerum vero totam mollitia illum corrupti, obcaecati odit quos alias, quam corporis! Reprehenderit quis harum perferendis cumque voluptas voluptatum commodi quisquam!
                         </p>
                         <button className = "btn btn-primary">learn more</button>
