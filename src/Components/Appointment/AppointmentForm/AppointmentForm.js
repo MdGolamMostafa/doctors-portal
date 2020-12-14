@@ -17,7 +17,7 @@ const customStyles = {
 Modal.setAppElement('#root')
 const AppointmentForm = ({modalIsOpen,closeModal,appointmentOn,date}) => {
 
-    const { register, handleSubmit,  errors } = useForm();
+    const { register, handleSubmit, errors } = useForm();
     const onSubmit = data =>
     {
         data.service = appointmentOn;
