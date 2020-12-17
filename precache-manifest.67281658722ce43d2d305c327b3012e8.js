@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f7afba9532e8d350f051d5fd3545eab",
+    "revision": "e8280c33c422c4171eb2d433c0923c81",
     "url": "/client-doctors-portal/index.html"
   },
   {
-    "revision": "28b55afb044f7df01322",
+    "revision": "74a39cacb4a8f6153a55",
     "url": "/client-doctors-portal/static/css/2.8dbe6964.chunk.css"
   },
   {
-    "revision": "160527cc1420ec24fd07",
-    "url": "/client-doctors-portal/static/css/main.1f9ae064.chunk.css"
+    "revision": "f9c23f8cb0f3f05e460a",
+    "url": "/client-doctors-portal/static/css/main.0796dbc3.chunk.css"
   },
   {
-    "revision": "28b55afb044f7df01322",
-    "url": "/client-doctors-portal/static/js/2.80ce9815.chunk.js"
+    "revision": "74a39cacb4a8f6153a55",
+    "url": "/client-doctors-portal/static/js/2.d9a476e4.chunk.js"
   },
   {
-    "revision": "1122ba7238d0def00b3b36d69f1c11b7",
-    "url": "/client-doctors-portal/static/js/2.80ce9815.chunk.js.LICENSE.txt"
+    "revision": "da8be1fc02e6bee6a9b2b5cadf8de716",
+    "url": "/client-doctors-portal/static/js/2.d9a476e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "160527cc1420ec24fd07",
-    "url": "/client-doctors-portal/static/js/main.f4569b89.chunk.js"
+    "revision": "f9c23f8cb0f3f05e460a",
+    "url": "/client-doctors-portal/static/js/main.3b0a515b.chunk.js"
   },
   {
     "revision": "72c9cffd8aae93ad6bdd",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7e5aec06294edf5718bd75237dac47f7",
     "url": "/client-doctors-portal/static/media/footer-bg.7e5aec06.png"
+  },
+  {
+    "revision": "6d75c808dada751a7fb1c79ede744ce6",
+    "url": "/client-doctors-portal/static/media/login-bg.6d75c808.png"
   },
   {
     "revision": "6de7b101b2556f0f7a8c62a18e329e92",

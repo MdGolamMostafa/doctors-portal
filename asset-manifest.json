@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/client-doctors-portal/static/css/main.1f9ae064.chunk.css",
-    "main.js": "/client-doctors-portal/static/js/main.f4569b89.chunk.js",
-    "main.js.map": "/client-doctors-portal/static/js/main.f4569b89.chunk.js.map",
+    "main.css": "/client-doctors-portal/static/css/main.0796dbc3.chunk.css",
+    "main.js": "/client-doctors-portal/static/js/main.3b0a515b.chunk.js",
+    "main.js.map": "/client-doctors-portal/static/js/main.3b0a515b.chunk.js.map",
     "runtime-main.js": "/client-doctors-portal/static/js/runtime-main.ab6471ba.js",
     "runtime-main.js.map": "/client-doctors-portal/static/js/runtime-main.ab6471ba.js.map",
     "static/css/2.8dbe6964.chunk.css": "/client-doctors-portal/static/css/2.8dbe6964.chunk.css",
-    "static/js/2.80ce9815.chunk.js": "/client-doctors-portal/static/js/2.80ce9815.chunk.js",
-    "static/js/2.80ce9815.chunk.js.map": "/client-doctors-portal/static/js/2.80ce9815.chunk.js.map",
+    "static/js/2.d9a476e4.chunk.js": "/client-doctors-portal/static/js/2.d9a476e4.chunk.js",
+    "static/js/2.d9a476e4.chunk.js.map": "/client-doctors-portal/static/js/2.d9a476e4.chunk.js.map",
     "index.html": "/client-doctors-portal/index.html",
-    "precache-manifest.663a92c4dd97b1a3d5f5e2f8dc0e69cf.js": "/client-doctors-portal/precache-manifest.663a92c4dd97b1a3d5f5e2f8dc0e69cf.js",
+    "precache-manifest.67281658722ce43d2d305c327b3012e8.js": "/client-doctors-portal/precache-manifest.67281658722ce43d2d305c327b3012e8.js",
     "service-worker.js": "/client-doctors-portal/service-worker.js",
     "static/css/2.8dbe6964.chunk.css.map": "/client-doctors-portal/static/css/2.8dbe6964.chunk.css.map",
-    "static/css/main.1f9ae064.chunk.css.map": "/client-doctors-portal/static/css/main.1f9ae064.chunk.css.map",
-    "static/js/2.80ce9815.chunk.js.LICENSE.txt": "/client-doctors-portal/static/js/2.80ce9815.chunk.js.LICENSE.txt",
+    "static/css/main.0796dbc3.chunk.css.map": "/client-doctors-portal/static/css/main.0796dbc3.chunk.css.map",
+    "static/js/2.d9a476e4.chunk.js.LICENSE.txt": "/client-doctors-portal/static/js/2.d9a476e4.chunk.js.LICENSE.txt",
     "static/media/DentalCareImg.png": "/client-doctors-portal/static/media/DentalCareImg.bc071481.png",
     "static/media/aliza.png": "/client-doctors-portal/static/media/aliza.bbf64a8f.png",
     "static/media/Contact.css": "/client-doctors-portal/static/media/appointmentBg.c2cbe1c8.png",
@@ -23,13 +23,14 @@
     "static/media/doctor.png": "/client-doctors-portal/static/media/doctor.b7d9c9e6.png",
     "static/media/ema.png": "/client-doctors-portal/static/media/ema.e1f2c3c6.png",
     "static/media/Footer.css": "/client-doctors-portal/static/media/footer-bg.7e5aec06.png",
+    "static/media/login-bg.png": "/client-doctors-portal/static/media/login-bg.6d75c808.png",
     "static/media/wilson.png": "/client-doctors-portal/static/media/wilson.6de7b101.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ab6471ba.js",
     "static/css/2.8dbe6964.chunk.css",
-    "static/js/2.80ce9815.chunk.js",
-    "static/css/main.1f9ae064.chunk.css",
-    "static/js/main.f4569b89.chunk.js"
+    "static/js/2.d9a476e4.chunk.js",
+    "static/css/main.0796dbc3.chunk.css",
+    "static/js/main.3b0a515b.chunk.js"
   ]
 }
