@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; 
 import InfoCard from '../InfoCard/InfoCard';
 import { faMapMarker,faClock,faPhone } from '@fortawesome/free-solid-svg-icons'
 

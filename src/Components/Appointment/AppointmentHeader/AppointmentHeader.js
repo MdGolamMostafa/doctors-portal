@@ -5,8 +5,6 @@ import chair from "../../../images/chair.png";
 
 const AppointmentHeader = ({handleChangeDate}) => {
 
-    
-
   return (
     <main style = {{height: '600px'}} className="row d-flex align-items-center">
       <div className="col-md-4 offset-md-1">

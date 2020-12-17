@@ -24,14 +24,15 @@ const Services = () => {
         <section className = "services-container  ">
             <div className= 'text-center mt-5 mb-5'>
                 <h5 style= {{color: '#1cc7c1'}}>OUR SERVICES</h5>
-                <h2 style= {{color: '#5b6273'}}>Services We Provide</h2>
+                    <h2 style= {{color: '#5b6273'}}>Services We Provide</h2>
             </div>
+
             <div className = "d-flex justify-content-center">
-            <div className = " w-75  row mt-5 mb-5 shadow ">
-                {
-                    serviceInfo.map((service) => <InfoServices  key={service.title} service={service}></InfoServices>)
-                }
-            </div>
+                <div className = " w-75  row mt-5 mb-5 shadow ">
+                    {
+                        serviceInfo.map((service) => <InfoServices  key={service.title} service={service}></InfoServices>)
+                    }
+                </div>
             </div>
         </section>
     );
