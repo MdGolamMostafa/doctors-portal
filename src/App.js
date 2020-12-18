@@ -5,6 +5,7 @@ import {
         Route,
         PrivateRoute
   } from "react-router-dom";
+import AddDoctor from './Components/AddDoctor/AddDoctor';
 import AllPatients from './Components/AllPatients/AllPatients';
 import Appointment from './Components/Appointment/Appointment/Appointment';
 import Dashboard from './Components/Dashboard/Dashboard/Dashboard';
@@ -32,6 +33,10 @@ function App() {
             {/* <PrivateRoute path="/allPatients">
             <AllPatients></AllPatients>
             </PrivateRoute> */}
+
+            <Route path="/addDoctor">
+            <AddDoctor></AddDoctor>
+          </Route>
 
             <Route path = "/allPatients">
                 <AllPatients></AllPatients>
