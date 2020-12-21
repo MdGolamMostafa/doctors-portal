@@ -4,6 +4,7 @@ import Sidebar from '../Dashboard/Sidebar/Sidebar';
 const AddDoctor = () => {
     const [info, setInfo] = useState({});
     const [file, setFile] = useState(null);
+    console.log(info);
 
     const handleBlur = e => {
         const newInfo = { ...info };
@@ -15,6 +16,7 @@ const AddDoctor = () => {
         const newFile = e.target.files[0];
         setFile(newFile);
     }
+    
 
     const handleSubmit = () => {
         const formData = new FormData()
@@ -22,8 +24,10 @@ const AddDoctor = () => {
         formData.append('file', file);
         formData.append('name', info.name);
         formData.append('email', info.email);
+       
+        console.log(file);
 
-        fetch('http://localhost:5000/addDoctor', {
+        fetch('http://localhost:5000/addADoctor', {
             method: 'POST',
             body: formData
             })
