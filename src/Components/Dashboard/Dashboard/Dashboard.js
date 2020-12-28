@@ -25,22 +25,28 @@ const Dashboard = () => {
             body: JSON.stringify({date: selectedDate , email: loggedInUser.email })
         })
         .then(res => res.json())
-        .then(data => setAppointments(data))
+        .then(data =>
+            {
+                setAppointments(data)
+                console.log(data);
+            }
+            
+            )
 
     },[selectedDate])
     return (
         <section>
-            <div style = {containerStyle} className="container-fluid row">
-            <div className="col-md-2 border border-primary">
+            <div style = {containerStyle} className="row">
+            <div className="col-md-2 ">
                 <Sidebar></Sidebar>
             </div>
-            <div className="col-md-5 border border-primary">
+            <div className="col-md-5 ">
             <Calendar
                 onChange={handleChangeDate}
                 value={new Date()}
             />
             </div>
-            <div className="col-md-5 border border-primary">
+            <div className="col-md-5 ">
             <h1>{appointments.length}</h1>
                 <AppointmentsByDate appointments={appointments}></AppointmentsByDate>
             </div>

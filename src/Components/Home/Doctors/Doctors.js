@@ -30,11 +30,11 @@ const Doctors = () => {
     }, [])
 
     return (
-        <div>
+        <div className = 'container'>
             <div className = 'text-primary  text-center mb-5'>
                 <h2>Our Doctors</h2>
             </div>
-            <div  className = 'd-flex justify-content-center  shadow rounded' >
+            <div  className = 'row' >
                 
                 { 
                     doctors.map(dInfo => <Doctor key= { dInfo._id} dInfo = {dInfo}></Doctor>)

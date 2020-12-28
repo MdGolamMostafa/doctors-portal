@@ -35,6 +35,7 @@ const AppointmentForm = ({modalIsOpen,closeModal,appointmentOn,date}) => {
                 closeModal();
                 alert('appointment successfully added.')
             }
+            
         })
         
     }
