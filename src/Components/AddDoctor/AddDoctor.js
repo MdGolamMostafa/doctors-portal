@@ -24,7 +24,7 @@ const AddDoctor = () => {
         formData.append('file', file);
         formData.append('name', info.name);
         formData.append('email', info.email);
-       
+
         console.log(file);
 
         fetch('http://localhost:5000/addADoctor', {
@@ -39,7 +39,7 @@ const AddDoctor = () => {
                 console.error(error)
             })
     }
-
+ 
     return (
         <div className = 'container-fluid row'>
             <Sidebar></Sidebar>
@@ -61,7 +61,6 @@ const AddDoctor = () => {
                         <button type="submit" className="btn btn-primary">Submit</button>
                     </form>
                 </div>
-            
         </div>
     );
 };
